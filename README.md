@@ -2,11 +2,14 @@
 
 **`Desenvolvedora Backend`**
 
-*Desenvolvedora em constante evolução*, apaixonada por aprendizado e natural do Rio de Janeiro.  
-Uso este espaço para organizar meus estudos, documentar meu progresso e reunir projetos que representam minha jornada no mundo da tecnologia.
+*Desenvolvedora em constante evolução*, 30 anos, casada & mãe.
+Contadora por formação, encontrei no desenvolvimento o caminho que realmente conecta minha lógica, curiosidade e paixão por tecnologia.
+Gosto de entender o que acontece por trás do código, criar soluções robustas e evoluir continuamente.
 
-✨ **Codando o futuro com propósito.**  
-📚 **Desenvolvendo conhecimento — e me desenvolvendo junto.**
+Este espaço reúne meus estudos, projetos e a construção da minha trajetória no universo tech.
+
+⚡ **Codando o futuro com propósito.**  
+📚 **Desenvolvendo conhecimento, e me desenvolvendo junto.**
 
 ---
 ---
