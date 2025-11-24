@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-*Desenvolvedora em constante evolução*, 30 anos, casada & mãe.
+*Desenvolvedora em constante evolução* - 30 anos, casada & mãe.
 Contadora por formação, encontrei no desenvolvimento o caminho que realmente conecta minha lógica, curiosidade e paixão por tecnologia.
 Gosto de entender o que acontece por trás do código, criar soluções robustas e evoluir continuamente.
 
